@@ -1,0 +1,12 @@
+start {
+
+}
+
+
+.start > button {
+    color: #282c34;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2vh;
+    height: 5vh;
+    width: 10vh;
+  }
