@@ -1,9 +1,9 @@
-start {
+.state-view {
 
 }
 
 
-.start > button {
+.state-view > button {
     color: #282c34;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 2vh;

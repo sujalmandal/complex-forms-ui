@@ -1,13 +1,13 @@
 import './App.css';
 import { Footer } from './components/commons/FooterComponent';
 import { Header } from './components/commons/HeaderComponent';
-import { StartComponent } from './components/state-view-components/start-state/StartState'
+import { StateViewComponent } from './components/state-view-components/state-view/StateViewComponent'
 
 function App() {
   return (
     <div className="App">
       <Header/>
-      <StartComponent/>
+      <StateViewComponent/>
       <Footer/>
     </div>
   );
